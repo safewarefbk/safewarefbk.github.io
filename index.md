@@ -2,8 +2,7 @@
 title: SaFEWaRe - Secure code liFEcycle for applications and netWoRking
 subtitle: Research Unit in Fondazione Bruno Kessler
 layout: page
-heroImageLeft: /assets/images/logos/SaFEWaRe_symbol.png
-heroImageRight: /assets/images/logos/CS_white.png
+show_logos: true
 ---
 
 ## Who we are
@@ -34,10 +33,5 @@ The SaFEWaRe unit lies within the [Cybersecurity center](https://cs.fbk.eu/) in 
 
 ## Research Areas
 
-{% include topics.md %}
-
-<!-- 
-## In the Spotlight
-
-{% include spotlights.md %}
--->
+{% assign researchAreas = site.data.topics | where_exp: "topic", "topic.category == 'topic'" %}
+{% include list-topics.html source=researchAreas %}

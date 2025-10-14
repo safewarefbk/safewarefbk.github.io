@@ -1,10 +1,5 @@
 ---
-title: Secure Software Engineering
-subtitle: 
-type: topic
-topicUrl: /topics/SecureSoftwareEngineering
-image: SecureSoftwareEngineering.jpg
-order: 1
+topic: SecureSoftwareEngineering
 ---
 
 This research aims to support engineers across the entire Software Development Life Cycle (SDLC) through AI-based 

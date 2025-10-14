@@ -2,13 +2,15 @@
   name: Cisco Systems Inc. 
   startYear: 2006
   description: World leader in networking solutions
-  internalUrl: /collaborations/Cisco
-  officialUrl: https://www.cisco.com/
+  url:
+    unit: /collaborations/Cisco
+    external: https://www.cisco.com/
 
 - id: Cleanse
   name: Cleanse (CLoud nativE ApplicatioN SEcurity)
   startYear: 2024
   description: Co-Innovation Lab Cleanse
-  internalUrl: /collaborations/Cleanse
-  officialUrl: https://www.deda.com/gruppo/corporate-governance/technology-innovation/co-innovation-lab
   logo: cleanse_short.png
+  url:
+    center: /collaborations/Cleanse
+    external: https://www.deda.com/gruppo/corporate-governance/technology-innovation/co-innovation-lab

@@ -1,6 +1,6 @@
 ---
 title: Dissemination
-# layout: dissemination-list
+# layout: list-dissemination
 permalink: /dissemination/
 
 ---

@@ -1,10 +1,5 @@
 ---
-title: Software Regulatory Compliance
-subtitle: 
-type: topic
-topicUrl: /topics/SoftwareRegulatoryCompliance
-image: SoftwareRegulatoryCompliance.jpg
-order: 1
+topic: SoftwareRegulatoryCompliance
 ---
 
 This research investigates the development of automatic and semi-automatic methods and tools to support organizations in 

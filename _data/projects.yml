@@ -1,43 +1,48 @@
 - id: SR-GLOBO
   title: SR-GLOBO
-  url: /projects/SR-GLOBO
   startDate: "2019-09-01"
   endDate: "2020-12-31"
   partners:
     - Cisco
+  url:
+    unit: /projects/SR-GLOBO
 
 - id: RAML
   title: RAML
   titleAddon: Raman Amplification via Machine Learning
-  url: /projects/RAML
   startDate: "2020-01-01"
   endDate: "2020-07-31"
   partners:
     - Cisco
+  url:
+    unit: /projects/RAML
 
 - id: OLearn
   title: OLearn
   titleAddon: Introducing Machine Learning Techniques to Empower the Control and Management of Optical Networks
-  url: /projects/OLearn
   startDate: "2018-09-01"
   endDate: "2023-12-31"
   partners:
     - Cisco
+  url:
+    unit: /projects/OLearn
       
 - id: BeeHive
   title: BeeHive
   titleAddon: Clustered Traffic Engineering in large ISP Networks
-  url: /projects/BeeHive
   startDate: "2016-09-01"
   endDate: "2021-12-31"
   partners:
     - Cisco
+  url:
+    unit: /projects/BeeHive
 
 - id: LBO
   title: LBO
   titleAddon: Local Bandwidth Optimization
-  url: /projects/LBO
   startDate: "2018-01-01"
   endDate: "2023-12-31"
   partners:
     - Cisco
+  url:
+    unit: /projects/LBO

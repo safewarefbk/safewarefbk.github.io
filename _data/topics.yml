@@ -1,0 +1,11 @@
+- id: SecureSoftwareEngineering
+  title: Secure Software Engineering
+  category: topic
+  url: /topics/SecureSoftwareEngineering
+  image: SecureSoftwareEngineering.jpg
+
+- id: SoftwareRegulatoryCompliance
+  title: Software Regulatory Compliance
+  category: topic
+  url: /topics/SoftwareRegulatoryCompliance
+  image: SoftwareRegulatoryCompliance.jpg
