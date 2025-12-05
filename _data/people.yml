@@ -64,12 +64,22 @@
   name: Valentino
   surname: Armani
   email: varmani@fbk.eu
+  iris_id: rp18135
   affiliations:
     - role: Developer 
       unit: Secure code liFEcycle for applications and netWoRking
       institution: Fondazione Bruno Kessler
       place: Trento, Italy
 
+- id: MagdalenaMariaSolitro
+  name: Magdalena Maria
+  surname: Solitro
+  email: msolitro@fbk.eu
+  affiliations:
+    - role: Researcher
+      unit: Secure code liFEcycle for applications and netWoRking
+      institution: Fondazione Bruno Kessler
+      place: Trento, Italy
 
 # Related
 - id: DomenicoSiracusa
