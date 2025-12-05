@@ -50,6 +50,7 @@
 - id: 202510thieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
   name: 2025 10th IEEE European Symposium on Security and Privacy Workshops (EuroSPW)
   type: conference
+  proceedings: Proceedings of 2025 10th IEEE European Symposium on Security and Privacy Workshops (EuroSPW)
 
 - id: 39theuropeanconferenceandexhibitiononopticalcommunicationecoc2013
   name: 39th European Conference and Exhibition on Optical Communication, Ecoc 2013
@@ -65,6 +66,10 @@
   name: Chi Play Workshop on Personalization in Serious and Persuasive Games and Gamified Interactions
   type: conference
   proceedings: Proceedings of Chi Play Workshop on Personalization in Serious and Persuasive Games and Gamified Interactions
+
+- id: computernetworks
+  name: Computer Networks
+  type: journal
 
 - id: crosslayerdesigninopticalnetworks
   name: Cross-layer Design in Optical Networks

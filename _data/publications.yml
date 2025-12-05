@@ -3,7 +3,34 @@
 # The following string is a separator used by the parser to trim away generated content
 # Please, please, please, keep this here!
 #--#--#--#--#--#
-- id: iris_9999_b3d94f254435b378bacd
+- id: iris_2025_ed0d3b1b66f5d5e22b27
+  id_iris: 364967,
+  title: "Sharpening Kubernetes Audit Logs with Context Awareness"
+  authors:
+    - MatteoFranzil
+    - ValentinoArmani
+    - LuisAugustoDiasKnob
+    - DomenicoSiracusa
+  destination: computernetworks
+  year: 2025
+  doi: 10.1016/j.comnet.2025.111890
+
+
+- id: iris_2025_76d49a5207f7de216c06
+  id_iris: 361407,
+  title: "Towards Continuous Risk Assessment and Conformance Checking of IdM Deployments"
+  authors:
+    - AndreaBisegna
+    - RobertoCarbone
+    - LauraCristiano
+    - PietroDeMatteis
+    - SilvioRanise
+  destination: 202510thieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
+  year: 2025
+  doi: 10.1109/EuroSPW67616.2025.00070
+
+
+- id: iris_2025_2155e5c0bfe35466f3e3
   id_iris: 361187,
   title: "A First Appraisal of NIS2 and CRA Compliance Leveraging Open Source Tools"
   authors:
@@ -18,19 +45,7 @@
     - SilvioRanise
   destination: ieee33rdinternationalrequirementsengineeringconferenceworkshopsrew
   year: 2025
-
-
-- id: iris_2025_9c717f1e993d917a0dad
-  id_iris: 361407,
-  title: "Towards Continuous Risk Assessment and Conformance Checking of IdM Deployments"
-  authors:
-    - AndreaBisegna
-    - RobertoCarbone
-    - LauraCristiano
-    - PietroDeMatteis
-    - SilvioRanise
-  destination: 202510thieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
-  year: 2025
+  doi: 10.1109/REW66121.2025.00040
 
 
 - id: iris_2024_c56690dc40cba80c3529
