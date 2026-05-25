@@ -1,3 +1,14 @@
+- id: AI4PCE
+  title: AI4PCE
+  startDate: "2026-04-01"
+  endDate: "2026-12-31"
+  partners:
+    - name: FBK DAISY
+      url: https://daisy.fbk.eu/
+    - Cisco
+  url:
+    unit: /projects/AI4PCE
+
 - id: SR-GLOBO
   title: SR-GLOBO
   startDate: "2019-09-01"
